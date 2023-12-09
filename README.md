@@ -1,9 +1,9 @@
 # My simple personal website
 
 ### About
-This is the repository of my simple personal webpage.
+This is the repository of my simple personal website.
 
-This webpage is hosted on https://www.michalzaporski.com
+This website is hosted on https://www.michalzaporski.com
 
 
 ### License
